@@ -3,4 +3,4 @@
 ## Praktikum Layout
 
 
-![Sreenshot_image](assets\01.png)
+![Sreenshot_image](assets/01.png)
